@@ -563,7 +563,7 @@ Possible future improvements:
 
 BOXX is experimental software.
 
-Do not use it with high-value keys until the code has been reviewed, tested, and audited.
+Do not use with high-value keys until the code has been reviewed, tested, and audited. Follow standard self-custody practices, including backing up your secret recovery phrase. You hold your own keys; we cannot restore lost phrases or recover funds. Bugs or software issues may still cause losses. Use at your own risk.
 
 Recommended safety practices:
 
@@ -604,12 +604,6 @@ pnpm build
 Then open a pull request with a clear explanation of the change.
 
 ---
-
-## WARNING AND RISK
-
-This software should be considered experimental, use at your own risk.
-
-All the standard practices for self-custody apply: Make sure you take backup of your secret recovery phrase. We are not responsible for any mistakes or problems with the software and services. You hold your own keys, we can never restore or help you if you lose your secret recovery phrase. You can still lose valuables even though you don't lose your recovery phrase, due to bugs and issues in the software provided. Use at your own risk.
 
 ## License
 
