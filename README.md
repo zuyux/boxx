@@ -605,6 +605,12 @@ Then open a pull request with a clear explanation of the change.
 
 ---
 
+## WARNING AND RISK
+
+This software should be considered experimental, use at your own risk.
+
+All the standard practices for self-custody apply: Make sure you take backup of your secret recovery phrase. We are not responsible for any mistakes or problems with the software and services. You hold your own keys, we can never restore or help you if you lose your secret recovery phrase. You can still lose valuables even though you don't lose your recovery phrase, due to bugs and issues in the software provided. Use at your own risk.
+
 ## License
 
 MIT
